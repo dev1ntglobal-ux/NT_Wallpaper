@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "name": "Animal",
+    "path": "http:\/\/51.79.177.162\/\/app\/Wallpaper4kApero\/image\/Animal\/Animal%20wolf%20animal%20wallaper.jpg",
+    "type": 1,
+    "idCategoryParent": -1
+  },
+    {
+    "id": 5,
+    "name": "Athletics",
+    "path": "http:\/\/51.79.177.162\/\/app\/Wallpaper4kApero\/preview\/image\/Athletics\/athletics-man-play-basketball_optimized.jpg",
+    "type": 1,
+    "idCategoryParent": -1
+  },
+  {
+    "id": 6,
+    "name": "Car",
+    "path": "http:\/\/51.79.177.162\/\/app\/Wallpaper4kApero\/preview\/image\/Car\/car-blue-in-bridge_optimized.jpg",
+    "type": 1,
+    "idCategoryParent": -1
+  },
+  {
+    "id": 7,
+    "name": "Church",
+    "path": "http:\/\/51.79.177.162\/\/app\/Wallpaper4kApero\/preview\/image\/Church\/church-ben-lambert-color-blue-yellow-orange_optimized.jpg",
+    "type": 1,
+    "idCategoryParent": -1
+  },
+  {
+    "id": 8,
+    "name": "Food & Drink",
+    "path": "http:\/\/51.79.177.162\/\/app\/Wallpaper4kApero\/preview\/image\/Food_Drink\/food-drink-chef-orange-white_optimized.jpg",
+    "type": 1,
+    "idCategoryParent": -1
+  }
+ ]
