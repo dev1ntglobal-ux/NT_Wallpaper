@@ -135,8 +135,6 @@
   { "id": 154, "link": "light red.jpg", "type": 1, "idCategory": 9, "point": 0 },
   { "id": 155, "link": "light spiral.jpg", "type": 1, "idCategory": 9, "point": 0 },
   { "id": 156, "link": "light star.jpg", "type": 1, "idCategory": 9, "point": 0 },
-  { "id": 165, "link": "nature bird tree sky water.jpg", "type": 1, "idCategory": 10, "keyWord": "nature bird tree sky water", "point": 0 },
-  { "id": 166, "link": "nature blood moon red sky dark star black.jpg", "type": 1, "idCategory": 10, "keyWord": "nature blood moon red sky dark star black", "point": 0 },
   { "id": 167, "link": "nature blue sea land.jpg", "type": 1, "idCategory": 10, "keyWord": "nature blue sea land", "point": 0 },
   { "id": 168, "link": "nature cave stone moutain.jpg", "type": 1, "idCategory": 10, "keyWord": "nature cave stone moutain", "point": 0 },
   { "id": 169, "link": "nature dickens tree sky.jpg", "type": 1, "idCategory": 10, "keyWord": "nature dickens tree sky", "point": 0 },
