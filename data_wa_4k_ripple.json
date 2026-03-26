@@ -135,8 +135,6 @@
   { "id": 154, "link": "light red.jpg", "type": 1, "idCategory": 9, "point": 0 },
   { "id": 155, "link": "light spiral.jpg", "type": 1, "idCategory": 9, "point": 0 },
   { "id": 156, "link": "light star.jpg", "type": 1, "idCategory": 9, "point": 0 },
-  { "id": 167, "link": "nature blue sea land.jpg", "type": 1, "idCategory": 10, "keyWord": "nature blue sea land", "point": 0 },
-  { "id": 168, "link": "nature cave stone moutain.jpg", "type": 1, "idCategory": 10, "keyWord": "nature cave stone moutain", "point": 0 },
   { "id": 169, "link": "nature dickens tree sky.jpg", "type": 1, "idCategory": 10, "keyWord": "nature dickens tree sky", "point": 0 },
   { "id": 170, "link": "nature flower green yellow.jpg", "type": 1, "idCategory": 10, "keyWord": "nature flower green yellow", "point": 0 },
   { "id": 171, "link": "nature hot air balloon and mountain.jpg", "type": 1, "idCategory": 10, "keyWord": "nature hot air balloon and mountain", "point": 0 },
