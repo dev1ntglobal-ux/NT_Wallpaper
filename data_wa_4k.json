@@ -777,81 +777,18 @@
     "keyWord": "food drink hot cacao orange white window"
   },
   {
-    "id": 115,
-    "link": "food drink donout pink around white green socola.jpg",
-    "type": 1,
-    "idCategory": 8,
-    "keyWord": "food drink moscato pink alcohol snack"
-  },
-  {
     "id": 116,
     "link": "food drink du parc alcohol.jpg",
     "type": 1,
     "idCategory": 8,
     "keyWord": "food drink orange juice green orange"
   },
-  {
-    "id": 117,
-    "link": "food drink grape purple blue.jpg",
-    "type": 1,
-    "idCategory": 8,
-    "keyWord": "food drink plums purple pink disk"
-  },
-  {
-    "id": 118,
-    "link": "food drink hot cacao orange white window.jpg",
-    "type": 1,
-    "idCategory": 8,
-    "keyWord": "food drink alcahol water cake"
-  },
-  {
-    "id": 119,
-    "link": "food drink more pumpkin yellow green orange red purple.jpg",
-    "type": 1,
-    "idCategory": 8,
-    "keyWord": "food drink apple yellow red"
-  },
-  {
-    "id": 120,
-    "link": "food drink moscato pink alcohol snack.jpg",
-    "type": 1,
-    "idCategory": 8,
-    "keyWord": "food drink cocktailVegetaink blue"
-  },
-  {
-    "id": 121,
-    "link": "food drink orange juice green orange.jpg",
-    "type": 1,
-    "idCategory": 8,
-    "keyWord": "food drink donout pink around white green socola"
-  },
-  {
-    "id": 122,
-    "link": "food drink perry smoke white old yellow.jpg",
-    "type": 1,
-    "idCategory": 8,
-    "keyWord": "food drink more pumpkin yellow green orange red purple"
-  },
-  {
-    "id": 123,
-    "link": "food drink plums purple pink disk.jpg",
-    "type": 1,
-    "idCategory": 8,
-    "keyWord": "food drink perry smoke white old yellow"
-  },
-  {
+ {
     "id": 124,
     "link": "food drink pumpkin and flower.jpg",
     "type": 1,
     "idCategory": 8,
     "keyWord": "food drink pumpkin and flower"
-  },
-  {
-    "id": 125,
-    "link": "food drink pumpkin yellow green plant.jpg",
-    "type": 1,
-    "idCategory": 8,
-    "keyWord": "food drink pumpkin yellow green plant"
   },
   {
     "id": 126,
@@ -2136,32 +2073,11 @@
     "keyWord": "sandwich foodie, white"
   },
   {
-    "id": 313,
-    "link": "animal funny white butterfly.mp4",
-    "type": 2,
-    "idCategory": 16,
-    "keyWord": "animal funny, white, butterfly"
-  },
-  {
-    "id": 314,
-    "link": "bee funny animal white.mp4",
-    "type": 2,
-    "idCategory": 16,
-    "keyWord": "bee funny, animal, white"
-  },
-  {
     "id": 315,
     "link": "bird examine camera funny.gif",
     "type": 2,
     "idCategory": 16,
     "keyWord": "bird examine, camera, funny"
-  },
-  {
-    "id": 316,
-    "link": "bird white funny animal.mp4",
-    "type": 2,
-    "idCategory": 16,
-    "keyWord": "bird white, funny, animal"
   },
   {
     "id": 317,
@@ -2365,20 +2281,6 @@
     "type": 2,
     "idCategory": 16,
     "keyWord": "guy color, wearing glasses, funny"
-  },
-  {
-    "id": 346,
-    "link": "little Star white funny.mp4",
-    "type": 2,
-    "idCategory": 16,
-    "keyWord": "little Star white, funny"
-  },
-  {
-    "id": 347,
-    "link": "pig blue animal funny.mp4",
-    "type": 2,
-    "idCategory": 16,
-    "keyWord": "pig blue, animal, funny"
   },
   {
     "id": 348,
